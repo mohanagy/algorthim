@@ -1,6 +1,8 @@
 const moment =require('moment');
 const _ =require('lodash');
 
+
+List of object segmented data 
 const dates = [
   { value: "ASLEEP", sourceName: "Health", startDate: "2020-06-17T19:00:00.000", endDate: "2020-06-21T23:00:00.000+0300", sourceId: "com.apple.Health" },
   { value: "ASLEEP", sourceName: "Health", startDate: "2020-06-18T04:00:00.000", endDate: "2020-06-18T09:00:00.000", sourceId: "com.apple.Health" }
